@@ -1,0 +1,14 @@
+import java.util.*; 
+
+class ArrayBasic{
+    public staic void main(String[] args){
+        Scanner rd = new Scanner(System.in); 
+
+        String[] cars; 
+
+        System.out.println(cars); 
+
+        rd.close(); 
+
+    }
+}
