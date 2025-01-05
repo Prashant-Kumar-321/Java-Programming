@@ -30,9 +30,6 @@ class ArrayBasic {
 
         AverageAge.avgAge(); 
         AverageAge.lowestAge(); 
-
-
-
     }
 }
 
