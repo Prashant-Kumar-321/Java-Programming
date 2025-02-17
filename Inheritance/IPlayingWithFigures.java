@@ -1,6 +1,6 @@
 // Interface class 
 interface Figure{
-    final static double PI = 3.141426;
+    public static final double PI = 3.141426;
     
     private void utility(){System.out.println("This is utilit method");}
     default void showUtility(){utility();}
